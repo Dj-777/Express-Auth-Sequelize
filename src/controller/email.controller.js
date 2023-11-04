@@ -8,8 +8,8 @@ const sendEmailWithOtp = async (toEmail, otp) => {
     port: 587,
     secure: false, // upgrade later with STARTTLS
     auth: {
-      user: "thedjgamer777@gmail.com",
-      pass: "vkfz qgma bout leld",
+      user: "username",
+      pass: "password",
     },
   });
 
